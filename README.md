@@ -9,6 +9,8 @@ TODO:
 
 - ~~Develop a working prototype~~
 - Draw and insert new main character sprite
-- Change platform textures
+  - Idle sprite (only needs a full atlas if we want, say, a moving idle sprite - think fighting games)
+  - Running animation sprite (has to be atlas to animate movement and make it fluid - preferably ten frames or more)
+- ~~Change platform textures~~
 - Implement damage and enemies
 - Insert music soundtrack/sound effects
